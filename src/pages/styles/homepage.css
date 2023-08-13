@@ -93,6 +93,21 @@
 	padding-top: 30px;
 }
 
+.load-more {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 30px;
+	font-size: medium;
+	color: darkgrey;
+	
+}
+
+.load-more:hover {
+	color: cadetblue;
+}
+
 @media (max-width: 1024px) {
 	.homepage-first-area {
 		flex-direction: column;

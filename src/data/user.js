@@ -1,30 +1,30 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Irfan's Portfolio",
+		name: "Irfan Maulana.",
+		email: "irfanklb30@gmail.com",
+		logo: "../logo-irfan.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/DroidBymax",
+		github: "https://github.com/irfanrev",
+		linkedin: "https://linkedin.com/in/irfanrev",
+		instagram: "https://instagram.com/irfan.rev",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-Stack Mobile Developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a Mobile Developer and Google Developer Community leader with a strong track record. My experience includes being a Mobile Developer at Suitmedia Digital Agency, leading the Google Developers Student Clubs Chapter Unsika, and chairing the Informatics Engineering Student Association Unsika. My career interest lies in Software Engineering, particularly Mobile Development. I am proficient in Android Native Kotlin with Jetpack Compose, Flutter, React, and Laravel, and I'm excited to bring my skills and leadership to meaningful projects.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Irfan Maulana. I live in Indonesia, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I am a Mobile Developer and Google Developer Community leader with a strong track record. My experience includes being a Mobile Developer at Suitmedia Digital Agency, leading the Google Developers Student Clubs Chapter Unsika, and chairing the Informatics Engineering Student Association Unsika. My career interest lies in Software Engineering, particularly Mobile Development. I am proficient in Android Native Kotlin with Jetpack Compose, Flutter, React, and Laravel, and I'm excited to bring my skills and leadership to meaningful projects.",
 	},
 
 	articles: {
@@ -35,48 +35,57 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Unsika Connect",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Mobile application for students of Singaperbangsa University of Karawang, used to connect students, alumni, lecturers and staff at Unsika.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://apkpure.com/unsika-connect/com.unsikuyapps.unsikuy_app",
 		},
 
 		{
-			title: "Project 2",
+			title: "Arvigo",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Arvigo is an application for MSMEs that will make it easier for users to try products directly using AR and Virtual-try-on.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/C23-PS191-Arvigo/arvigo-mobile-app",
 		},
 
 		{
-			title: "Project 3",
+			title: "Geo Presences",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Geo presence application for SMA 2 Karawang, used for attendance media during class.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/irfanrev/geo-presence",
 		},
 
 		{
-			title: "Project 4",
+			title: "Kodev Learn",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"CodeV programming course elearning application based on web app using flutter framework.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/irfanrev/kodev-learn",
 		},
 
 		{
-			title: "Project 5",
+			title: "Safe Places Assistance",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Mobile application to help provide directions and directions for AR-based disaster safe locations ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/irfanrev/safe-places-assistance",
+		},
+
+		{
+			title: "Karawang ENV",
+			description:
+				"Mobile-based Karawang Environmental Care Application. Karawang-env is an information service about the environment, especially the distribution or point of garbage circulating in the Karawang area.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png",
+			linkText: "View Project",
+			link: "https://github.com/irfanrev/karawang-env",
 		},
 	],
 };

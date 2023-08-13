@@ -13,30 +13,83 @@ const Works = () => {
 				title="Work"
 				body={
 					<div className="works-body">
+
 						<div className="work">
 							<img
-								src="./facebook.png"
-								alt="facebook"
+								src="./jidoka.jpeg"
+								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Jidoka System</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Mobile Develper
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2023</div>
 						</div>
 
 						<div className="work">
 							<img
-								src="./twitter.png"
+								src="./bangkit.jpeg"
+								alt="facebook"
+								className="work-image"
+							/>
+							<div className="work-title">Bangkit Academy - Distinction</div>
+							<div className="work-subtitle">
+								Mobile Development Cohort
+							</div>
+							<div className="work-duration">2023</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./suitmedia.jpeg"
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Suitmedia Digital Agency</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Mobile Develper
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2022</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./kodev.jpeg"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">KodeV Academy</div>
+							<div className="work-subtitle">
+								Mobile Develper
+							</div>
+							<div className="work-duration">2022</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./no-img-corp.gif"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">Momby</div>
+							<div className="work-subtitle">
+								Mobile Develper
+							</div>
+							<div className="work-duration">2021</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./istana.jpeg"
+								alt="twitter"
+								className="work-image"
+							/>
+							<div className="work-title">Istana Kepresidenan Cipanas</div>
+							<div className="work-subtitle">
+								IT Support
+							</div>
+							<div className="work-duration">2019</div>
 						</div>
 					</div>
 				}

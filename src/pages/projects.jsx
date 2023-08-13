@@ -58,6 +58,9 @@ const Projects = () => {
 
 						<div className="projects-list">
 							<AllProjects />
+							<div className="load-more">
+								<a href="https://github.com/irfanrev">More</a>
+							</div>
 						</div>
 					</div>
 					<div className="page-footer">

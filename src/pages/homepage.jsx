@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="irfan-home.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
@@ -168,6 +168,9 @@ const Homepage = () => {
 
 						<div className="homepage-projects">
 							<AllProjects />
+							<div className="load-more">
+								<a href="https://github.com/irfanrev">More</a>
+							</div>
 						</div>
 
 						<div className="homepage-after-title">
